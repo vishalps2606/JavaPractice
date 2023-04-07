@@ -3,7 +3,9 @@
 In this repository, I will push the codes that I will find helpful for the CSE persons, so that they can learn the things.
 
 ### Ques1 Problem Statement
-
+Write a program to return those elements of the array those sum is equal to 0.
+Input - arr = [-1, -2, 3, 4, 11]
+Output - -1 -2 3
 
 ### Ques2 Problem Statement
 The car service station caters to different types of cars – Hatchback, Sedan, SUV.
@@ -33,3 +35,6 @@ Each service has a service code associated with it and different prices for diff
  
  write a program to shuffle the integers of an array in the form of this formula
     a1 <= a2 >= a3 <= a4 >= a5 ...
+
+Input - arr = [2,1,5,3,11,7]
+Output - [1, 5, 2, 7, 3, 11]
