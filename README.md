@@ -2,7 +2,7 @@
 
 In this repository, I will push the codes that I will find helpful for the CSE persons, so that they can learn the things.
 
-### Jalan1 Problem Statement
+### Ques1 Problem Statement
 
 
 ### Ques2 Problem Statement
@@ -28,3 +28,8 @@ Each service has a service code associated with it and different prices for diff
  Total Bill – ₹ 7000
  
  In addition, if the total service bill is more than ₹ 10000, a complimentary cleaning should be provided and specified in the bill.
+ 
+ ### Ques 3 Problem Statement
+ 
+ write a program to shuffle the integers of an array in the form of this formula
+    a1 <= a2 >= a3 <= a4 >= a5 ...
